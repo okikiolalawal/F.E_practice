@@ -1,0 +1,21 @@
+.body{
+    height:100vh;
+    overflow:hidden;
+    background: linear-gradient(rgba(8, 99, 29, 0.1),rgba(21, 199, 15, 0.486));
+}
+.h{
+    height:100vh
+}
+.image{
+    height:100vh;
+    width: 800px;
+    background: linear-gradient(rgba(37, 24, 24, 0.1),rgba(12, 4, 4, 0.486)), url("/images.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-size:50px;
+    /* padding: 300px; */
+}
